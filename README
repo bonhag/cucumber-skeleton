@@ -1,0 +1,10 @@
+Here is a starting place for adding Cucumber support to a Grails project.
+
+You will have to grab the IE Webdriver, and update test.bat to reflect its
+location:
+
+http://code.google.com/p/selenium/wiki/InternetExplorerDriver
+
+Good luck, my friend!
+
+
